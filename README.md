@@ -8,8 +8,8 @@ plotrevist2.m was where I spent most of my time.  This script plotted the covera
 
 <center>
 <img src="./orbits.png">
-  ![l_band](./l_band.png)
-  ![p_band](./p_band.png)
-  ![i_band](./i_band.png)
-  ![root_zone](./root_zone.png)
+<img src="./l_band.png">
+<img src="./p_band.png">
+<img src="./i_band.png">
+<img src="./root_zone.png">
 </center>

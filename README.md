@@ -7,7 +7,7 @@ orbitDecay2.m calculated the orbit decay time for a specific satellite and its a
 plotrevist2.m was where I spent most of my time.  This script plotted the coverage for P-band and I-band measurements based on simulation outputs.  I generated grids of various intensity to get a coverage percentage for the specific simulation parameters.  We had several focus regions, so this script was fundamental in our success of the project.
 
 <p align="center">
-  ![orbits](./orbits.png)
+  <img src="./orbits.png">
   ![l_band](./l_band.png)
   ![p_band](./p_band.png)
   ![i_band](./i_band.png)

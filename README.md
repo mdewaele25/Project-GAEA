@@ -5,3 +5,9 @@ Project GAEA utilized Signals of Opportunity communication technology to measure
 I was the mission operations and orbit architecture lead, so I did a lot of coding for analysis of the orbits.  The GAEA_Printer.py file was used as a generator in a simulation that our professor gave us.  My file allowed for various inputs to change true anomaly, inclination, and various other input parameters and it would generate the correct simulation input file.
 orbitDecay2.m calculated the orbit decay time for a specific satellite and its altitude. This was used to generate an end-of-mission plan.
 plotrevist2.m was where I spent most of my time.  This script plotted the coverage for P-band and I-band measurements based on simulation outputs.  I generated grids of various intensity to get a coverage percentage for the specific simulation parameters.  We had several focus regions, so this script was fundamental in our success of the project.
+
+![orbits](./orbits.png)
+![l_band](./l_band.png)
+![p_band](./p_band.png)
+![i_band](./i_band.png)
+![root_zone](./root_zone.png)

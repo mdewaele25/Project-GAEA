@@ -1,4 +1,4 @@
-[Home](https:/https://mdewaele25.github.io/)
+[Home](https://mdewaele25.github.io/)
 
 # Project-GAEA
 Project GAEA was my fall 2020 senior design project at Purdue University with James Garrison.  These are my contributions.
